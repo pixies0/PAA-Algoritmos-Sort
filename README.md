@@ -53,4 +53,4 @@ e uma imagem em sua tela
 
 ![Logo do Markdown](https://i.ibb.co/WFrwQDz/Captura-de-tela-de-2023-06-01-11-40-39.png)
 
-E assim ser redirecionado novamente para o início do programa.
+E assim ao fechar a imagem retornar a execução do programa e ser redirecionado novamente para o início do programa.
