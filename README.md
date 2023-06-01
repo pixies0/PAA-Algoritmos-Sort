@@ -54,3 +54,9 @@ e uma imagem em sua tela
 ![Logo do Markdown](https://i.ibb.co/WFrwQDz/Captura-de-tela-de-2023-06-01-11-40-39.png)
 
 E assim ao fechar a imagem retornar a execução do programa e ser redirecionado novamente para o início do programa.
+
+# Especificação da máquina
+
+Intel(R) Core(TM) i5-1035G1 - Processador
+8,00 GB - Memória RAM
+Usando sistema operacional linux mint
