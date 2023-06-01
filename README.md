@@ -4,7 +4,7 @@ Alunos: João Pedro Silva Cunha, Julio Cezar Nolasco, Luiz Fernando Kozak, Willi
 
 Nesse repositorio você encontra o código fonte e um breve relatório (PAA-2.pdf) do experimento aplicado.
 
-Link para apresentaçhttps://www.canva.com/design/DAFjM4wVD1k/JCpL8CMBIzMDjhAFWf3Uog/view?utm_content=DAFjM4wVD1k&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#23
+Link para apresentação: https://www.canva.com/design/DAFjM4wVD1k/JCpL8CMBIzMDjhAFWf3Uog/view?utm_content=DAFjM4wVD1k&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#23
 
 # Algoritmos
 
