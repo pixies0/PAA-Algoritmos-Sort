@@ -19,7 +19,7 @@ Link para apresentação: https://www.canva.com/design/DAFjM4wVD1k/JCpL8CMBIzMDj
 
 # Como Executar
 
-Na pasta fonte vc vai se deparar com os algoritmos propriamente dito separados em arquivos e funções únicas, um arquivo responsável pelas plotagems dos gŕaficos, duas pastas na qual ./inputs se trata de lista de diversos valores usado nas entradas e ./outputs são as saídas registradas e esperadas, por fim o arquivo main.py que sera oq vc executa.
+Na pasta fonte vc vai se deparar com os algoritmos propriamente dito separados em arquivos e funções únicas, um arquivo responsável pelas plotagems dos gŕaficos, duas pastas na qual ./inputs se trata de lista de diversos valores usado nas entradas e ./outputs são as saídas registradas e esperadas, por fim o arquivo main.py que sera oq vc executa estando dentro da pasta fonte/origem/source.
 
 ```
 /bin/python3 main.py
